@@ -16,6 +16,7 @@
 <body class="body">
     <div class="container">
         <header class="header">
+            <div class="pattern pattern--hidden"></div>
             <h1>Johann Faouzi<span><i>PhD student</i></span></h1>
             <nav class="links">
                 <a href="https://github.com/johannfaouzi"><i class="fa fa-github-square fa-3x"></i></a>
@@ -31,8 +32,17 @@
             <a href="{{ site.open_source_software }}" class="btn">Open Source Software</a>
         </header>
 
-    {{ content }}
+    <div class="content">
+
+        {{ content }}
 
     </div>
+    </div>
+<script src="js/vendors/trianglify.min.js"></script>
+<script src="js/vendors/TweenMax.min.js"></script>
+<script src="js/vendors/ScrollToPlugin.min.js"></script>
+<script src="js/vendors/cash.min.js"></script>
+<script src="js/card-modern-blog.js"></script>
+<script src="js/modern-blog.js"></script>
 </body>
 </html>
