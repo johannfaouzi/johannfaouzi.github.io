@@ -58,6 +58,7 @@ a:focus {
 .header {
 	padding: 2em 1em;
 	text-align: center;
+	background-image: url('../img/background.png');
 }
 
 .header h1 {
