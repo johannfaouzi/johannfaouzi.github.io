@@ -53,8 +53,6 @@ a:focus {
 	height: 0;
 	pointer-events: none;
 }
-
-
 /* Header */
 
 .header {
@@ -66,7 +64,7 @@ a:focus {
 	font-size: 3em;
 	font-weight: 400;
 	line-height: 1.2;
-	margin: .1em 0 0;
+	margin: .5em 0 0;
 }
 
 .header h1 span {
@@ -75,11 +73,10 @@ a:focus {
 	padding: .5em 0 1em;
 	color: #999;
 }
-
 /* Top Navigation Style */
 
 .links {
-	margin: 0.5em 0 0;
+	margin: 2em 0 0;
 }
 
 .links a {
