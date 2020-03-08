@@ -2,6 +2,11 @@
 title: Johann Faouzi
 description: Personal website
 keywords: Johann Faouzi, PhD, Science, Machine learning
-author: Wferr
-baseurl: ""
-url: ""
+author: Johann Faouzi
+
+home: ./index.html
+open_source_software: ./open_source_software.html
+publications: ./publications.html
+talks: ./talks.html
+teaching: ./teaching.html
+workshops: ./workshops.html
