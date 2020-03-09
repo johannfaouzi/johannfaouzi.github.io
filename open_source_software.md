@@ -2,20 +2,23 @@ I strive for open science and open source software in particular.
 I like  contributing to software that I use regularly (that's my way of
 thanking) and creating my own software.
 Here you can find some highlights of my contributions on GitHub.
-For an exhaustive list, you can check my
+For an exhaustive list, you can check out my
 [GitHub profile](https://github.com/johannfaouzi).
 
 ## Personal software
 
-* I created and maintain [pyts](https://github.com/johannfaouzi/pyts),
+### pyts: [GitHub](https://github.com/johannfaouzi/pyts), [Documentation](https://pyts.readthedocs.io)
+
+I created and maintain [pyts](https://github.com/johannfaouzi/pyts),
 which is a Python package dedicated to time series classification.
 It aims to make time series classification easily accessible by providing
 preprocessing tools, dataset loading utilities and implementations of many
 algorithms.
 
+
 ## Other software
 
-### scikit-learn
+### scikit-learn: [GitHub](https://github.com/scikit-learn/scikit-learn), [Documentation](https://scikit-learn.org)
 
 * [PR #14999](https://github.com/scikit-learn/scikit-learn/pull/14999): I changed
 the use of the random seeds in
@@ -41,7 +44,7 @@ and
 allowing users to reuse the solution of the previous call to fit and add more
 estimators to the ensemble.
 
-* Fixing typos:
+* Typo fixes:
 [PR #13932](https://github.com/scikit-learn/scikit-learn/pull/13932),
 [PR #14072](https://github.com/scikit-learn/scikit-learn/pull/14072),
 [PR #14073](https://github.com/scikit-learn/scikit-learn/pull/14073),
@@ -56,14 +59,43 @@ estimators to the ensemble.
 [PR #14074](https://github.com/scikit-learn/scikit-learn/pull/14074).
 
 
-### tslearn
+### tslearn: [GitHub](https://github.com/rtavenar/tslearn) - [Documentation](https://tslearn.readthedocs.io)
+
+* [PR #104](https://github.com/rtavenar/tslearn/pull/104): I updated the functions
+to compute Dynamic Time Warping and the constraint regions, replacing the
+Cython functions with numba functions.
+
+* Maintenance stuff:
+[PR #135](https://github.com/rtavenar/tslearn/pull/135),
+[PR #119](https://github.com/rtavenar/tslearn/pull/119).
 
 
+### numpy: [GitHub](https://github.com/numpy/numpy) - [Documentation](https://numpy.org)
 
-### numpy
+* Typo fixes:
+[PR #14035](https://github.com/numpy/numpy/pull/14035),
+[PR #13947](https://github.com/numpy/numpy/pull/13947).
 
 
+### scipy: [GitHub](https://github.com/scipy/scipy) - [Documentation](https://scipy.org/scipylib/)
 
-### scipy
+* [PR #10435](https://github.com/scipy/scipy/pull/10435): I fixed a bug which
+prevented the use of the
+[Yeo-Johnson transformation](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.yeojohnson.html)
+for integer data type.
 
-### umap-learn
+* Typo fixes:
+[PR #9570](https://github.com/scipy/scipy/pull/9570).
+
+
+### umap: [GitHub](https://github.com/lmcinnes/umap) - [Documentation](https://umap-learn.readthedocs.io)
+
+* [PR #130](https://github.com/lmcinnes/umap/pull/130): I added an example
+illustrating the use of the
+[UMAP](https://umap-learn.readthedocs.io/en/latest/api.html#umap) class with
+[sklearn.pipeline.Pipeline](https://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html)
+
+* Typo fixes:
+[PR #120](https://github.com/lmcinnes/umap/pull/120),
+[PR #118](https://github.com/lmcinnes/umap/pull/118),
+[PR #109](https://github.com/lmcinnes/umap/pull/109).
