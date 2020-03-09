@@ -118,10 +118,12 @@ code {
 
 /* FOOTER */
 
-.site-footer {
-	display: inline-block;
+.footer {
+	display: block;
 	padding: 2em;
 	text-align: center;
+	margin-left: auto;
+  margin-right: auto;
 }
 
 .center {
