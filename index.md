@@ -29,5 +29,6 @@ associated with ICDs.
 I strive for open science and open source software in particular.
 I find creating and contributing to open source software to be a great
 learning experience.
+
 More information on my contributions in the
 [Open Source Software](/open_source_software.md) section.

@@ -110,10 +110,19 @@ a:focus {
 }
 
 /* CODE */
+
 code {
 	background-color: rgba(100, 100, 100, 0.15);
 	padding: 1px 2px;
 }
+
+/* FOOTER */
+
+footer {
+	display: inline-block;
+	padding: 0.8em;
+}
+
 
 /* BTN */
 
