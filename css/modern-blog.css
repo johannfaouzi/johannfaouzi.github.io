@@ -57,10 +57,9 @@ a:focus {
 
 .header {
 	margin: 0em;
-	padding: 1em 1em;
+	padding: 1em;
 	text-align: center;
-	/*background-image: url('../img/background.png');*/
-	background-color: pink;
+	background-color: transparent;
 }
 
 .header h1 {
@@ -99,6 +98,14 @@ a:focus {
 		font-size: 2.4em;
 		line-height: 1.2;
 	}
+}
+
+/* CONTENT */
+
+.content {
+	background-color: white;
+	padding: 1em 3em 1em 3em;
+	margin: 0em;
 }
 
 /* BTN */
