@@ -1,4 +1,4 @@
-# 2019-2020
+## 2019-2020
 
 * Teaching assistant for the Python Programming for mathematics course at
 Sorbonne Université, France
