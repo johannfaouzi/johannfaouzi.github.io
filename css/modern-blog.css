@@ -106,23 +106,32 @@ a:focus {
 .content {
 	background-color: white;
 	padding: 3em 8em;
-	margin: 1em;
+	margin: 1em 5em;
+}
+
+/* CODE */
+code {
+	background-color: rgba(100, 100, 100, 0.4);
 }
 
 /* BTN */
 
 .btn {
 	display: inline-block;
-	margin: 0.8em;
-	padding: 1em;
-	font-size: 1.5em;
+	margin: 0.6em;
+	padding: 0.8em;
+	font-size: 1.2em;
 	color: rgba(255, 255, 255, 0.7);
-	background-color: rgba(255, 255, 255, 0.5);
+	background-color: rgba(255, 255, 255, 0.2);
 	border-color: rgba(255, 255, 255, 0.2);
 	border-style: solid;
 	border-width: 1px;
 	border-radius: 0.3rem;
 	transition: color 0.2;
+}
+
+.btn:hover {
+	background-color: rgba(255, 255, 255, 0.7);
 }
 
 /* PATTERN */
