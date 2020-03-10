@@ -5,7 +5,7 @@ pyts: A python package for time series classification.
 *Journal of Machine Learning Research*,
 21(46):1−6, 2020.
 <a href="http://jmlr.org/papers/volume21/19-763/19-763.pdf"><i class="fa fa-file-pdf-o fa-1x"></i></a>
-[PDF](http://jmlr.org/papers/volume21/19-763/19-763.pdf)
+[[www](http://jmlr.org/papers/volume21/19-763/19-763)]
 
 ## 2019
 
@@ -13,4 +13,5 @@ pyts: A python package for time series classification.
 Predicting Impulse Control Disorders in Parkinson's Disease: A Challenging Task.
 *International Congress of Parkinson's Disease and Movement Disorders*,
 Sep 2019, Nice, France.
-[Poster](https://hal.inria.fr/hal-02315533/document)
+<a href="https://hal.inria.fr/hal-02315533/document"><i class="fa fa-file-pdf-o fa-1x"></i></a>
+[[www](https://hal.inria.fr/hal-02315533)]
