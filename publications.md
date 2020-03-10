@@ -5,7 +5,7 @@ pyts: A python package for time series classification.
 *Journal of Machine Learning Research*,
 21(46):1−6, 2020.
 <a href="http://jmlr.org/papers/volume21/19-763/19-763.pdf"><i class="fa fa-file-pdf-o fa-1x"></i></a>
-[[www](http://http://jmlr.org/papers/v21/19-763.html)]
+[[www](http://jmlr.org/papers/v21/19-763.html)]
 
 ## 2019
 
