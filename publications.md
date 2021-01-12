@@ -6,7 +6,7 @@ pyts: A Python Package for Time Series Classification
 <a href="https://jmlr.org/papers/volume21/19-763/19-763.pdf"><i class="fa fa-file-pdf-o fa-1x"></i></a>
 [[www](https://jmlr.org/papers/v21/19-763.html)]
 
-* Romain Tavenard, **Johann Faouzi**, Gilles Vandewiele, Felix Divo, Guillaume Androz, Chester Holtz, Marie Payne, Roman Yurchak, Marc Ru&szligwurm, Kushal Kolar and Eli Woods.
+* Romain Tavenard, **Johann Faouzi**, Gilles Vandewiele, Felix Divo, Guillaume Androz, Chester Holtz, Marie Payne, Roman Yurchak, Marc Ru&szlig;wurm, Kushal Kolar and Eli Woods.
 Tslearn, A Machine Learning Toolkit for Time Series Data.
 *Journal of Machine Learning Research*,
 21(118):1--6, 2020.
@@ -14,7 +14,7 @@ Tslearn, A Machine Learning Toolkit for Time Series Data.
 [[www](https://www.jmlr.org/papers/v21/20-091.html)]
 
 * Ninon Burgos\*, Simona Bottani\*, **Johann Faouzi**\*, Elina Thibeau-Sutre\* and Olivier Colliot.
-Deep learning in brain disorders: from data processing to disease treatment.
+Deep learning for brain disorders: from data processing to disease treatment.
 *Briefings in Bioinformatics*,
 2020.
 [[www](https://academic.oup.com/bib/advance-article-abstract/doi/10.1093/bib/bbaa310/6034041?redirectedFrom=fulltext)]

@@ -1,11 +1,11 @@
-## 2020&ndash2021
+## 2020&ndash;2021
 
 * Teaching assistant for the Python Programming for mathematics course at
 Sorbonne Université, France
 ([Programmation Python pour les mathématiques](https://python.guillod.org), in French).
 
 
-## 2019&ndash2020
+## 2019&ndash;2020
 
 * Teaching assistant for a practical session on Image Synthesis using Generative
 Adversarial Networks at the

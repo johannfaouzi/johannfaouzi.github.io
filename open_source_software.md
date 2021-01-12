@@ -46,7 +46,7 @@ allowing users to reuse the solution of the previous call to fit and add more
 estimators to the ensemble.
 
 * Typo fixes:
-[PR #16738](https://github.com/scikit-learn/scikit-learn/pull/16379),
+[PR #16738](https://github.com/scikit-learn/scikit-learn/pull/16738),
 [PR #16379](https://github.com/scikit-learn/scikit-learn/pull/16379),
 [PR #16106](https://github.com/scikit-learn/scikit-learn/pull/16106),
 [PR #15280](https://github.com/scikit-learn/scikit-learn/pull/15280),
@@ -57,26 +57,26 @@ estimators to the ensemble.
 [PR #13932](https://github.com/scikit-learn/scikit-learn/pull/13932).
 
 * Maintenance stuff:
-[PR #16758](https://github.com/scikit-learn/scikit-learn/pull/16379),
+[PR #16758](https://github.com/scikit-learn/scikit-learn/pull/16758),
 [PR #14194](https://github.com/scikit-learn/scikit-learn/pull/14194),
 [PR #14074](https://github.com/scikit-learn/scikit-learn/pull/14074).
 
 
-### tslearn: [GitHub](https://github.com/rtavenar/tslearn) - [Documentation](https://tslearn.readthedocs.io)
+### tslearn: [GitHub](https://github.com/tslearn-team/tslearn) - [Documentation](https://tslearn.readthedocs.io)
 
-* [PR #216](https://github.com/rtavenar/tslearn/pull/216): I added a
+* [PR #216](https://github.com/tslearn-team/tslearn/pull/216): I added a
 contributing guide in the documentation to help new contributors.
 
-* [PR #204](https://github.com/rtavenar/tslearn/pull/204): I updated a couple
+* [PR #204](https://github.com/tslearn-team/tslearn/pull/204): I updated a couple
 of examples in the documentation about dynamic time warping.
 
-* [PR #104](https://github.com/rtavenar/tslearn/pull/104): I updated the functions
+* [PR #104](https://github.com/tslearn-team/tslearn/pull/104): I updated the functions
 to compute dynamic time warping and the constraint regions, replacing the
 Cython functions with numba functions.
 
 * Maintenance stuff:
-[PR #135](https://github.com/rtavenar/tslearn/pull/135),
-[PR #119](https://github.com/rtavenar/tslearn/pull/119).
+[PR #135](https://github.com/tslearn-team/tslearn/pull/135),
+[PR #119](https://github.com/tslearn-team/tslearn/pull/119).
 
 
 ### numpy: [GitHub](https://github.com/numpy/numpy) - [Documentation](https://numpy.org)
