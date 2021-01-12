@@ -13,7 +13,7 @@ to do so.
 
 I just started, so I do not have much to say yet, but I'm working on machine
 learning for precision medicine in Parkinson's disease, with a focus on
-cognitive decline and falls. I am under the supervision of
+cognitive decline and falls. I'm under the supervision of
 Olivier Colliot and Jean-Christophe Corvol.
 
 More information soon.

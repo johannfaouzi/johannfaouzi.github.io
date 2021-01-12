@@ -1,7 +1,7 @@
 ## International journals with peer review
 
 * **Johann Faouzi** and Hicham Janati.
-pyts: A Python Package for Time Series Classification
+pyts: A Python Package for Time Series Classification.
 *Journal of Machine Learning Research*, 21(46):1--6, 2020.
 <a href="https://jmlr.org/papers/volume21/19-763/19-763.pdf"><i class="fa fa-file-pdf-o fa-1x"></i></a>
 [[www](https://jmlr.org/papers/v21/19-763.html)]
