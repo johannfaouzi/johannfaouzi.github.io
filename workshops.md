@@ -9,5 +9,5 @@ at the [AI4Health Winter School](https://ai4healthschool.org).
 
 * I co-organized a 1-day workshop entitled
 [Introduction to machine learning in Python with Scikit-learn](https://events.prace-ri.eu/event/933/)
-at the [Brain and Spine Institute](https://icm-institute.org/en/), Paris, France,
+at the [Paris Brain Institute](https://icm-institute.org/en/), Paris, France,
 as part of the [Partnership for Advanced Computing in Europe](https://prace-ri.eu).

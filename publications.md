@@ -6,14 +6,14 @@ pyts: A Python Package for Time Series Classification
 <a href="https://jmlr.org/papers/volume21/19-763/19-763.pdf"><i class="fa fa-file-pdf-o fa-1x"></i></a>
 [[www](https://jmlr.org/papers/v21/19-763.html)]
 
-* Romain Tavenard, **Johann Faouzi**, Gilles Vandewiele, Felix Divo, Guillaume Androz, Chester Holtz, Marie Payne, Roman Yurchak, Marc Ru{\ss}wurm, Kushal Kolar and Eli Woods.
+* Romain Tavenard, **Johann Faouzi**, Gilles Vandewiele, Felix Divo, Guillaume Androz, Chester Holtz, Marie Payne, Roman Yurchak, Marc Ru&szligwurm, Kushal Kolar and Eli Woods.
 Tslearn, A Machine Learning Toolkit for Time Series Data.
 *Journal of Machine Learning Research*,
 21(118):1--6, 2020.
 <a href="https://www.jmlr.org/papers/volume21/20-091/20-091.pdf"><i class="fa fa-file-pdf-o fa-1x"></i></a>
 [[www](https://www.jmlr.org/papers/v21/20-091.html)]
 
-* Ninon Burgos,^* Simona Bottani,^* **Johann Faouzi**,^* Elina Thibeau-Sutre^* and Olivier Colliot.
+* Ninon Burgos\*, Simona Bottani\*, **Johann Faouzi**\*, Elina Thibeau-Sutre\* and Olivier Colliot.
 Deep learning in brain disorders: from data processing to disease treatment.
 *Briefings in Bioinformatics*,
 2020.
@@ -25,8 +25,8 @@ Automated Categorization of Parkinsonian Syndromes using Magnetic Resonance Imag
 2020.
 [[www](https://onlinelibrary.wiley.com/doi/10.1002/mds.28348)]
 
-* Baptiste Couvy-Duchesne,^* **Johann Faouzi**,^* Benoît Martin,^* Elina Thibeau-Sutre,^* Adam Wild,^* Manon Ansart, Stanley Durrleman, Didier Dormont, Ninon Burgos and Olivier Colliot.
-Ensemble learning of CNN, SVM and BLUP for brain age prediction: ARAMIS contribution to the PAC2019 challenge''.
+* Baptiste Couvy-Duchesne\*, **Johann Faouzi**\*, Benoît Martin\*, Elina Thibeau-Sutre\*, Adam Wild\*, Manon Ansart, Stanley Durrleman, Didier Dormont, Ninon Burgos and Olivier Colliot.
+Ensemble Learning of Convolutional Neural Network, Support Vector Machine, and Best Linear Unbiased Predictor for Brain Age Prediction: ARAMIS Contribution to the Predictive Analytics Competition 2019 Challenge.
 *Frontiers in Psychiatry*,
 11(1451),
 2020.

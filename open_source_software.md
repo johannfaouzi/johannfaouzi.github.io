@@ -5,7 +5,8 @@ Here you can find some highlights of my contributions on GitHub.
 For an exhaustive list, you can check out my
 [GitHub profile](https://github.com/johannfaouzi).
 
-## Personal software
+
+## Created software
 
 ### pyts: [GitHub](https://github.com/johannfaouzi/pyts), [Documentation](https://pyts.readthedocs.io)
 
@@ -45,6 +46,7 @@ allowing users to reuse the solution of the previous call to fit and add more
 estimators to the ensemble.
 
 * Typo fixes:
+[PR #16738](https://github.com/scikit-learn/scikit-learn/pull/16379),
 [PR #16379](https://github.com/scikit-learn/scikit-learn/pull/16379),
 [PR #16106](https://github.com/scikit-learn/scikit-learn/pull/16106),
 [PR #15280](https://github.com/scikit-learn/scikit-learn/pull/15280),
@@ -55,14 +57,21 @@ estimators to the ensemble.
 [PR #13932](https://github.com/scikit-learn/scikit-learn/pull/13932).
 
 * Maintenance stuff:
+[PR #16758](https://github.com/scikit-learn/scikit-learn/pull/16379),
 [PR #14194](https://github.com/scikit-learn/scikit-learn/pull/14194),
 [PR #14074](https://github.com/scikit-learn/scikit-learn/pull/14074).
 
 
 ### tslearn: [GitHub](https://github.com/rtavenar/tslearn) - [Documentation](https://tslearn.readthedocs.io)
 
+* [PR #216](https://github.com/rtavenar/tslearn/pull/216): I added a
+contributing guide in the documentation to help new contributors.
+
+* [PR #204](https://github.com/rtavenar/tslearn/pull/204): I updated a couple
+of examples in the documentation about dynamic time warping.
+
 * [PR #104](https://github.com/rtavenar/tslearn/pull/104): I updated the functions
-to compute Dynamic Time Warping and the constraint regions, replacing the
+to compute dynamic time warping and the constraint regions, replacing the
 Cython functions with numba functions.
 
 * Maintenance stuff:
@@ -88,7 +97,7 @@ for integer data type.
 [PR #9570](https://github.com/scipy/scipy/pull/9570).
 
 
-### umap: [GitHub](https://github.com/lmcinnes/umap) - [Documentation](https://umap-learn.readthedocs.io)
+### umap-learn: [GitHub](https://github.com/lmcinnes/umap) - [Documentation](https://umap-learn.readthedocs.io)
 
 * [PR #130](https://github.com/lmcinnes/umap/pull/130): I added an example
 illustrating the use of the
