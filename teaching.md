@@ -1,10 +1,17 @@
+## 2020-2021
+
+* Teaching assistant for the Python Programming for mathematics course at
+Sorbonne Université, France
+([Programmation Python pour les mathématiques](https://python.guillod.org), in French).
+
+
 ## 2019-2020
 
 * Teaching assistant for a practical session on Image Synthesis using Generative
 Adversarial Networks at the
 [Hands-on Workshop on Machine Learning Applied to Medical Imaging](https://laclauc.github.io/workshop.html)
 taking place at the
-[Brain and Spine Institute](https://icm-institute.org/en/), Paris, France.
+[Paris Brain Institute](https://icm-institute.org/en/), Paris, France.
 
 * Teaching assistant for the Python Programming for mathematics course at
 Sorbonne Université, France

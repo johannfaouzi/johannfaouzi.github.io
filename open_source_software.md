@@ -29,7 +29,7 @@ so that the same seed is used when warm starting is used (this way, the training
 and validation sets are always identical, which prevents data leakage).
 
 * [PR #14516](https://github.com/scikit-learn/scikit-learn/pull/14516): I changed
-the default behavior for early stopping
+the default behavior for early stopping in
 [sklearn.ensemble.HistGradientBoostingClassifier](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.HistGradientBoostingClassifier.html)
 and
 [sklearn.ensemble.HistGradientBoostingRegressor](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.HistGradientBoostingRegressor.html),
@@ -45,14 +45,14 @@ allowing users to reuse the solution of the previous call to fit and add more
 estimators to the ensemble.
 
 * Typo fixes:
-[PR #13932](https://github.com/scikit-learn/scikit-learn/pull/13932),
-[PR #14072](https://github.com/scikit-learn/scikit-learn/pull/14072),
-[PR #14073](https://github.com/scikit-learn/scikit-learn/pull/14073),
-[PR #14130](https://github.com/scikit-learn/scikit-learn/pull/14130),
-[PR #14245](https://github.com/scikit-learn/scikit-learn/pull/14245),
-[PR #15280](https://github.com/scikit-learn/scikit-learn/pull/15280),
+[PR #16379](https://github.com/scikit-learn/scikit-learn/pull/16379),
 [PR #16106](https://github.com/scikit-learn/scikit-learn/pull/16106),
-[PR #16379](https://github.com/scikit-learn/scikit-learn/pull/16379).
+[PR #15280](https://github.com/scikit-learn/scikit-learn/pull/15280),
+[PR #14245](https://github.com/scikit-learn/scikit-learn/pull/14245),
+[PR #14130](https://github.com/scikit-learn/scikit-learn/pull/14130),
+[PR #14073](https://github.com/scikit-learn/scikit-learn/pull/14073),
+[PR #14072](https://github.com/scikit-learn/scikit-learn/pull/14072),
+[PR #13932](https://github.com/scikit-learn/scikit-learn/pull/13932).
 
 * Maintenance stuff:
 [PR #14194](https://github.com/scikit-learn/scikit-learn/pull/14194),
@@ -93,7 +93,7 @@ for integer data type.
 * [PR #130](https://github.com/lmcinnes/umap/pull/130): I added an example
 illustrating the use of the
 [UMAP](https://umap-learn.readthedocs.io/en/latest/api.html#umap) class with
-[sklearn.pipeline.Pipeline](https://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html)
+[sklearn.pipeline.Pipeline](https://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html).
 
 * Typo fixes:
 [PR #120](https://github.com/lmcinnes/umap/pull/120),
