@@ -40,16 +40,10 @@ which individuals are at higher risk of developing these disorders and when is o
 importance.
 
 The main objective was to build predictive models of ICDs in Parkinson's disease,
-in order to improve the quality of life of the patients. These models will
-make use of clinical and genetic data as both data types are known to be
-associated with ICDs.
-
-The objective of this thesis was to study impulse control disorders in Parkinson’s
-disease from the statistical and machine learning points of view, and can be divided
-into two parts. The first part consists in investigating the predictive performance of
-the altogether factors associated with these disorders in the literature. The second part
-consists in studying the association and the usefulness of other factors, in particular
-genetic data, to improve the predictive performance.
+in order to improve the quality of life of the patients. We were particularly
+interested in investigating the predictive performance of algorithms trained
+using known and suggested risk factors, as well as identifying new risk factors,
+especially genetic factors.
 
 As the literature on predicting ICDs in PD was almost non-existent, we studied
 the predictability of impulse control disorders in Parkinson's disease.
