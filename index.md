@@ -11,12 +11,12 @@ to do so.
 
 ### Postdoctoral research
 
-I just started, so I do not have much to say yet, but I'm working on machine
-learning for precision medicine in Parkinson's disease, with a focus on
-cognitive decline and falls. I'm under the supervision of
-Olivier Colliot and Jean-Christophe Corvol.
-
-More information soon.
+I'm working on machine learning for precision medicine in Parkinson's
+disease.
+I'm particularly interested in investigating the combination of static and
+dynamic data in recurrent neural networks and apply such approaches to predict
+a future outcome.
+I currently focus on the ahead-of-time prediction of cognitive decline in Parkinson's disease.
 
 
 ### PhD thesis
