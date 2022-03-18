@@ -1,11 +1,4 @@
-## 2020&ndash;2021
-
-* Teaching assistant for the Python Programming for mathematics course at
-Sorbonne Université, France
-([Programmation Python pour les mathématiques](https://python.guillod.org), in French).
-
-
-## 2019&ndash;2020
+## 2019&ndash;2022
 
 * Teaching assistant for the Python Programming for mathematics course at
 Sorbonne Université, France

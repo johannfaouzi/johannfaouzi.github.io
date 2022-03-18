@@ -1,8 +1,15 @@
+## 2022
+
+* I co-led two days of online practical sessions on
+[Deep Learning for Medical Imaging](https://aramislab.paris.inria.fr/workshops/DL4MI/)
+at the [AI4Health Winter School 2022](https://ai4healthschool.org).
+
+
 ## 2021
 
 * I co-led two days of online practical sessions on
 [Deep Learning for Medical Imaging](https://aramislab.paris.inria.fr/workshops/DL4MI/)
-at the [AI4Health Winter School](https://ai4healthschool.org).
+at the [AI4Health Winter School 2021](https://ai4healthschool.org).
 
 
 ## 2020
