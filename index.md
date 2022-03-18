@@ -13,10 +13,20 @@ to do so.
 
 I'm working on machine learning for precision medicine in Parkinson's
 disease.
-I'm particularly interested in investigating the combination of static and
-dynamic data in recurrent neural networks and apply such approaches to predict
-a future outcome.
-I currently focus on the ahead-of-time prediction of cognitive decline in Parkinson's disease.
+I'm particularly interested in investigating the genetics of cognitive decline
+in Parkinson's disease as the genetic risk factors are currently not well known.
+
+
+### Other research works
+
+I co-wrote several literature reviews on deep learning for brain disorders,
+impulse control disorders in Parkinson's disease,
+machine learning for Parkinson's disease and related disorders (accepted book chapter)
+and prediction of mild cognitive impairment in Alzheimer's disease using machine learning.
+I also co-wrote a high-level introductory chapter on classic machine learning algorithms (accepted book chapter).
+I took part in a challenge on brain-age prediction,
+in a study on automatic classification of parkinsonian syndromes,
+and in an analysis of functional brain connectivities in Tourette disorder.
 
 
 ### PhD thesis
@@ -65,7 +75,8 @@ for impulse control disorders to date and the sample sizes in the available
 datasets were relatively small, we computed genetic risk scores for other
 phenotypes and studied their associations with impulse control disorders.
 We could not report any association after correction for multiple comparisons.
-An article summing up this work is currently under review.
+An article summing up this work has been published in Parkinsonism & Related
+Disorders in 2021.
 
 Finally, in a more methodological study, we investigated the combination of
 static and dynamic data in recurrent neural networks. We performed a literature
