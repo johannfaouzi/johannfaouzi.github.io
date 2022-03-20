@@ -13,7 +13,7 @@ at University of the Littoral Opal Coast (online presentation).
 
 * I presented an overview of the literature on time series classification and
 my work on a Python package dedicated to time series classification that I
-created and maintain in the Satistics, Signal and Learning seminar
+created and maintain in the Signal, Statistics and Learning seminar
 at Télécom Paris, Palaiseau, France.
 <a href="media/talks/Time Series Classification in Python - Telecom S2A.pdf"><i class="fa fa-file-pdf-o fa-1x"></i></a>
 
