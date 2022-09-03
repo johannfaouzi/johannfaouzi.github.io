@@ -12,6 +12,12 @@ Journal of Machine Learning Research, 21(118):1--6, 2020.
 <a href="https://www.jmlr.org/papers/volume21/20-091/20-091.pdf"><i class="fa fa-file-pdf-o fa-1x"></i></a>
 [[www](https://www.jmlr.org/papers/v21/20-091.html)]
 
+* **Johann Faouzi**, Samir Bekadar, Fanny Artaud, Alexis Elbaz, Graziella Mangone, Olivier Colliot and Jean-Christophe Corvol.
+*Machine learning-based prediction of impulse control disorders in Parkinson's disease from clinical and genetic data*.
+IEEE Open Journal of Engineering in Medicine and Biology, 3:96--107, 2022.
+<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9783181"><i class="fa fa-file-pdf-o fa-1x"></i></a>
+[[www](https://ieeexplore.ieee.org/document/9783181)]
+
 * **Johann Faouzi**, Baptiste Couvy-Duchesne, Samir Bekadar, Olivier Colliot and Jean-Christophe Corvol.
 *Exploratory analysis of the genetics of impulse control disorders in Parkinson's disease using genetic risk scores*.
 Parkinsonism & Related Disorders, 86:74--77, 2021.
@@ -67,16 +73,12 @@ To appear in: Ketan Kotecha (Ed.), Machine Learning (Emerging Trends and Applica
 *Classic machine learning algorithms*.
 To appear in: Olivier Colliot (Ed.), Machine Learning for Brain Disorders, Springer, 2022.
 
-* **Johann Faouzi**, Lydia Chougar, Stephane Lehericy and Jean-Christophe Corvol.
+* **Johann Faouzi**, Olivier Colliot and Jean-Christophe Corvol.
 *Machine learning for Parkinson's disease and related disorders*.
 To appear in Olivier Colliot (Ed.), Machine Learning for Brain Disorders, Springer, 2022.
 
 
 ## Articles submitted to international journals with peer review
-
-* **Johann Faouzi**, Samir Bekadar, Fanny Artaud, Alexis Elbaz, Graziella Mangone, Olivier Colliot and Jean-Christophe Corvol.
-*Machine learning-based prediction of impulse control disorders in Parkinson's disease from cilinical and genetic data*.
-Submitted to IEEE Open Journal of Engineering in Medicine and Biology.
 
 
 ## International conferences with peer-review and without proceedings (posters only)

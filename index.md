@@ -1,12 +1,16 @@
-I'm currently a postdoctoral researcher at the
+I'm currently an Assistant Professor in Computer Science at ENSAI
+(*École Nationale de la Statistique et de l'Analyse de l'Information*,
+a French public higher education institution specialized in statistics and
+information processing), Rennes, France.
+My main research interest is **machine learning**, with a focus on time series,
+Python programming, open source software, and applications in medicine.
+
+Previously, I was first a PhD student then a postdoctoral researcher at the
 [Paris Brain Institute](https://icm-institute.org/en/)
 in both the [ARAMIS team](https://www.aramislab.fr) and the
 [Corti-Corvol team](https://institutducerveau-icm.org/en/team/team-corti-corvol/).
-I'm working on machine learning for precision medicine in Parkinson's
-disease and I'm supervised by Olivier Colliot and Jean-Christophe Corvol.
-I'm interested in machine learning with medical applications and Python
-programming. I love contributing to open source software when I have the time
-to do so.
+I worked on machine learning for precision medicine in Parkinson's
+disease and was supervised by Olivier Colliot and Jean-Christophe Corvol.
 
 
 ### Postdoctoral research
