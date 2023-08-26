@@ -11,5 +11,5 @@
 
 | Period    | Course | Degree | Institution | Role |
 |-----------|--------|--------|-------------|------|
-| 2020-2022 | [*Python Programming for mathematics*](https://python.guillod.org) | Bachelor degree in mathematics | Sorbonne University | Teaching assistant |
-| 2020-2022 | [*Deep Learning for Medical Imaging*](https://www.aramislab.fr/teaching/DLMI-2019-2020/index.html) | [Master MVA](https://www.master-mva.com) | ENS Paris Saclay | Teaching assistant |
+| 2020--2022 | [*Python Programming for Mathematics*](https://python.guillod.org) | Bachelor degree in mathematics | Sorbonne University | Teaching assistant |
+| 2020--2022 | [*Deep Learning for Medical Imaging*](https://www.aramislab.fr/teaching/DLMI-2019-2020/index.html) | [Master MVA](https://www.master-mva.com) | ENS Paris Saclay | Teaching assistant |
