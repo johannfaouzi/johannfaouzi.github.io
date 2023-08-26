@@ -200,3 +200,18 @@ code {
 	-webkit-transform: scale(1)!important;
 	transform: scale(1)!important;
 }
+
+table {
+	table-layout: auto;
+	width: 100%;
+}
+
+table, th, td {
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+
+td {
+	text-align: center;
+	vertical-align: middle;
+}

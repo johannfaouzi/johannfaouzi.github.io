@@ -1,7 +1,7 @@
 I'm currently **Assistant Professor** in **Computer Science** at **ENSAI**
 (*École Nationale de la Statistique et de l'Analyse de l'Information*,
 a French public higher education institution specialized in statistics and
-information processing), Rennes, France, and a member of **CREST**
+information processing), Bruz, France, and a member of **CREST**
 (Center for Research in Economics and Statistics).
 My main research interest is **machine learning**, with a focus on
 **time series**, **Python programming**, **open source software**, and
@@ -15,15 +15,24 @@ I worked on machine learning for precision medicine in Parkinson's
 disease and was supervised by Olivier Colliot and Jean-Christophe Corvol.
 
 
+### Open source software
+
+I strive for open science and open source software in particular.
+I find creating and contributing to open source software to be a great
+learning experience.
+
+More information on my contributions in the
+[Open Source Software](/open_source_software.md) section.
+
+
 ### Postdoctoral research
 
-I'm working on machine learning for precision medicine in Parkinson's
-disease.
-I'm particularly interested in investigating the genetics of cognitive decline
-in Parkinson's disease as the genetic risk factors are currently not well known.
+I worked on machine learning for precision medicine in Parkinson's
+disease, more precisely on the genetics of cognitive decline in Parkinson's
+disease as the genetic risk factors are currently not well known.
 
 
-### Other research works
+### Other research works during my PhD
 
 I co-wrote several literature reviews on deep learning for brain disorders,
 impulse control disorders in Parkinson's disease,
@@ -92,13 +101,3 @@ Parkinson's disease. We used clinical data as dynamic data and genetic data
 as static data. All five approaches yielded very similar results. These negative
 results were not really surprising due to the lack of positive results with
 these genetic data in the other two studies.
-
-
-### Open source software
-
-I strive for open science and open source software in particular.
-I find creating and contributing to open source software to be a great
-learning experience.
-
-More information on my contributions in the
-[Open Source Software](/open_source_software.md) section.
