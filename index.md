@@ -1,9 +1,11 @@
-I'm currently an Assistant Professor in Computer Science at ENSAI
+I'm currently **Assistant Professor** in **Computer Science** at **ENSAI**
 (*École Nationale de la Statistique et de l'Analyse de l'Information*,
 a French public higher education institution specialized in statistics and
-information processing), Rennes, France.
-My main research interest is **machine learning**, with a focus on time series,
-Python programming, open source software, and applications in medicine.
+information processing), Rennes, France, and a member of **CREST**
+(Center for Research in Economics and Statistics).
+My main research interest is **machine learning**, with a focus on
+**time series**, **Python programming**, **open source software**, and
+**applications in medicine**.
 
 Previously, I was first a PhD student then a postdoctoral researcher at the
 [Paris Brain Institute](https://icm-institute.org/en/)

@@ -1,3 +1,8 @@
+## 2023
+
+* I co-led a 3-hour practical session on [Machine Learning for Time Series](https://tslearn-team.github.io/tutoriel-cap2023/) at the [*Plate-Forme Intelligence Artificielle*](https://pfia23.icube.unistra.fr/index.html).
+
+
 ## 2022
 
 * I co-led two days of online practical sessions on
